@@ -1,0 +1,42 @@
+<svg
+  width="959"
+  height="593"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    style="stroke:#ffffff;stroke-opacity:1;fill-opacity:1;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none"
+    id="NM"
+    class="state"
+    d="M111.651,141.732l-19.609,28.347h-53.98l19.607-28.347H111.651z"
+      />
+  <path
+    style="stroke:#ffffff;stroke-opacity:1;fill-opacity:1;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none"
+    id="KS"
+    class="state"
+    d="M91.423,56.693H37.44l-18.72-28.346h53.98L91.423,56.693z"
+      />
+  <path
+    style="stroke:#ffffff;stroke-opacity:1;fill-opacity:1;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none"
+    id="CO"
+    class="state"
+    d="M53.981,0l18.721,28.346H18.72L0,0H53.981z"
+      />
+  <path
+    style="stroke:#ffffff;stroke-opacity:1;fill-opacity:1;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none"
+    id="UT"
+    class="state"
+    d="M128.863,113.387l1.171,1.772l-18.383,26.573H57.668l18.382-26.576l-1.169-1.77H128.863z"
+      />
+  <path
+    style="stroke:#ffffff;stroke-opacity:1;fill-opacity:1;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none"
+    id="AZ"
+    class="state"
+    d="M128.862,113.386H74.881L56.161,85.04h53.982L128.862,113.386z"
+      />
+  <path
+    style="stroke:#ffffff;stroke-opacity:1;fill-opacity:1;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none"
+    id="NV"
+    class="state"
+    d="M110.144,85.039H56.161L37.44,56.693h53.982L110.144,85.039z"
+      />
+</svg>
